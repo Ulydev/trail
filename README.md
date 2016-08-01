@@ -15,7 +15,7 @@ local trail = require "trail" --require the library
 Usage
 ----------------
 
-Create variable and transition it
+Create new trail
 ```lua
 function love.load()
   myTrail = trail:new({
