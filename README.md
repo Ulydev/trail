@@ -148,6 +148,6 @@ myTrail:toggle()
 
 ----------
 
-Thanks to Spyro and Taehl for their work on [trail meshes](https://love2d.org/forums/ucp.php?i=pm&mode=compose&u=134819).
+Thanks to Spyro and Taehl for their work on [trail meshes](https://love2d.org/forums/viewtopic.php?f=5&t=77608).
 
 [demo]: http://img4.hostingpics.net/pics/43495675et.gif
